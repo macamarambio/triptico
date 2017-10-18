@@ -1,31 +1,30 @@
 
  .column {
 	float: left;
-	border: 1px solid #000;
+	outline: 1px solid #000;
 	background-color: #FFF;
-	height: 499px;
-	width: 198px;
+	height: 430px;
+	width: 200px;
 }
 .title {
-	width: 599px;
+	width: 600px;
 	height: 30px;
 	background-color: #FFC200;
-	border: 1px solid #000;
+	outline: 1px solid #000;
 }
 .last {
-	width: 599px;
+	width: 600px;
 	height: 20px;
 	background-color: #FFC200;
-	border: 1px solid #000;	
+	outline: 1px solid #000;	
 	position: relative;
-    top: 500px;
+    top: 430px;
 }
 h4 {
 	font-family: 'PT Sans', sans-serif;
-	top: -15px;
 	text-align: center;
 	position: relative;
-	top: -15px;
+	top: 5px;
 }
 h2 {
 	font-family: 'PT Sans', sans-serif;
@@ -43,7 +42,6 @@ p {
 	text-align: center;
 	padding: 5px;
 	bottom: 20px;
-	position: relative;
     top: 50px;
 }
 .text {
@@ -56,16 +54,12 @@ p {
     top: 80px;
 }
 .image1 {
-	height: 100px;
-	width: 198px;
 	background-size: 100%;
 	position: absolute;
 	overflow: auto;
 	top: 50;
 }
 .image2 {
-	height: 100px;
-	width: 198px;
 	background-size: 100%;
 	position: absolute;
 	overflow: auto;
