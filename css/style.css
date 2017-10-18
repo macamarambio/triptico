@@ -3,7 +3,7 @@
 	float: left;
 	border: 1px solid #000;
 	background-color: #FFF;
-	height: 499px;
+	height: 430px;
 	width: 198px;
 }
 .title {
@@ -18,7 +18,7 @@
 	background-color: #FFC200;
 	border: 1px solid #000;	
 	position: relative;
-    top: 500px;
+    top: 430px;
 }
 h4 {
 	font-family: 'PT Sans', sans-serif;
@@ -43,7 +43,6 @@ p {
 	text-align: center;
 	padding: 5px;
 	bottom: 20px;
-	position: relative;
     top: 50px;
 }
 .text {
